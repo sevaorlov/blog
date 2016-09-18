@@ -111,4 +111,4 @@ gems:
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
 
-highlighter: pygments
+highlighter: rouge
